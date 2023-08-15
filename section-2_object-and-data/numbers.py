@@ -18,4 +18,11 @@ print("x * y is: ",x * y)
 # Division:
 x = 3
 y = 2
-print("x / y is: ",x/y)
+print("x / y is: ",x / y)
+
+# Modulo:
+# The term modulo is simply the remainder
+
+x = 7
+y = 4
+print("x % y is: ",x % y)
