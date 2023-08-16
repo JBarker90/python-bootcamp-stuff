@@ -34,3 +34,7 @@ print('Hello \nWorld')
 # This is a string
 # Hello 
 # World
+
+# The len function shows the length of strings
+
+print(len("hello"))
