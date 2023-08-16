@@ -11,3 +11,7 @@ print("This is the value of a is: ", a)
 
 a = 10
 print("The NEW value of a is: ", a)
+
+# If you do not know what type the variable is, you can use the type operator
+
+print("The variable a is: ", type(a))
