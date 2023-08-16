@@ -23,3 +23,14 @@ print("This is a string")
 #    print('I'm going on a run')
 #                             ^
 #SyntaxError: unterminated string literal (detected at line 17)
+
+# You can also use escape sequences to print out things like a new line
+# \n will tell python to print a new line (just like other programming languages)
+
+print('Hello \nWorld')
+
+# jonathan@ctrl-ansible:~/python_learning$ /bin/python3 /home/jonathan/python_learning/python-bootcamp-stuff/section-2_object-and-data/intro_strings.py
+# Hello World
+# This is a string
+# Hello 
+# World
