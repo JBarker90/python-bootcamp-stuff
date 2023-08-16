@@ -4,4 +4,10 @@
 # Simple Variable:
 
 a = 5
-print("This is the value of: ", a)
+print("This is the value of a is: ", a)
+
+# Example of Dynamic Typing
+# - The variable can be re-assigned a new value
+
+a = 10
+print("The NEW value of a is: ", a)
