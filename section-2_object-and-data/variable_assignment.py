@@ -18,3 +18,12 @@ print("The variable a is: ", type(a))
 
 a = 30.123
 print("The variable a is: ", type(a))
+
+# Python variables can be much more readable.
+# Example: 
+
+my_income = 100
+tax_rate = 0.1
+
+my_taxes = my_income * tax_rate
+print(my_taxes)
