@@ -21,7 +21,7 @@ print("The eighth letter is", mystring[8])
 # "-11 -10 -9  -8  -7  -6 -5 -4 -3 -2 -1"
 
 mystring = "Hello World"
-print("Your string is: ", mystring)
+print("\nYour string is: ", mystring)
 
 print("The last letter is", mystring[-1])
 print("The second to the last letter is", mystring[-2])
