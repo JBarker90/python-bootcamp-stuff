@@ -9,5 +9,5 @@
 mystring = "Hello World"
 print("Your string is: ", mystring)
 
-print("The first letter is ", mystring[0])
-print("The second letter is ", mystring[1])
+print("The first letter is", mystring[0])
+print("The second letter is", mystring[1])
